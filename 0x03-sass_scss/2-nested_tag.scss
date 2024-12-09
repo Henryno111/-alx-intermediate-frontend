@@ -1,0 +1,14 @@
+$margin-body: 0px;
+$margin-para: 10px;
+$margin-body: 0px;
+
+
+body {
+
+    margin: $margin-body;
+    padding: 0px; 
+  
+   p {
+    margin: $margin-para; 
+  }
+}
